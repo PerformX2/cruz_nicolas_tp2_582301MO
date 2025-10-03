@@ -1,1 +1,1 @@
-# Ce dossier contient les fonts utilisées pour le projet Godot
+# Ce dossier contient les polices utilisées pour le projet Godot

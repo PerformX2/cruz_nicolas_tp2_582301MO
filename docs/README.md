@@ -1,1 +1,1 @@
-# Dossier pour activer l'exportation web(HTML) du projet Godot
+# Dossier de l'exportation web du projet Godot

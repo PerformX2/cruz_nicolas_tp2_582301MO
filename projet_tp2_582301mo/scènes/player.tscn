@@ -1,0 +1,41 @@
+[gd_scene load_steps=6 format=3 uid="uid://0in4fdamtkga"]
+
+[ext_resource type="Texture2D" uid="uid://b2ndvr15fdiv0" path="res://assets/images/Pigor/Pigor (without mace).png" id="1_62q3v"]
+[ext_resource type="Script" uid="uid://dfvfpx4calnek" path="res://scripts/player_controller.gd" id="1_mo32d"]
+
+[sub_resource type="Animation" id="Animation_mo32d"]
+resource_name = "idle"
+length = 2.0
+step = 0.25
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_ou4hl"]
+_data = {
+&"idle": SubResource("Animation_mo32d")
+}
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_mo32d"]
+radius = 14.0
+height = 42.0
+
+[node name="Player" type="CharacterBody2D"]
+script = ExtResource("1_mo32d")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+offset = Vector2(0, -15)
+zoom = Vector2(4, 4)
+
+[node name="AgentAnimator" type="Node2D" parent="."]
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="AgentAnimator"]
+root_node = NodePath("../..")
+libraries = {
+&"": SubResource("AnimationLibrary_ou4hl")
+}
+
+[node name="Sprite2D" type="Sprite2D" parent="AgentAnimator"]
+texture = ExtResource("1_62q3v")
+region_enabled = true
+region_rect = Rect2(16.8129, 20.6744, 30.3764, 41.4441)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CapsuleShape2D_mo32d")

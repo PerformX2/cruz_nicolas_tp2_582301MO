@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://xpptipwxf1q6"
-path="res://.godot/imported/thrust.png-ccfa96e2eaf9b704828ab265d8fef426.ctex"
+uid="uid://dowwsvtr2i2wr"
+path="res://.godot/imported/Pigor animation sheet.png-e13cd9399892c7123a9ddc2ec84a1418.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Pigor/Pigor (sperated animations) (without mace)/standard/thrust.png"
-dest_files=["res://.godot/imported/thrust.png-ccfa96e2eaf9b704828ab265d8fef426.ctex"]
+source_file="res://assets/images/Pigor animation sheet.png"
+dest_files=["res://.godot/imported/Pigor animation sheet.png-e13cd9399892c7123a9ddc2ec84a1418.ctex"]
 
 [params]
 

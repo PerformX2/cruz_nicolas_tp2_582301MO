@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://3r2qbmc2mdnx"
-path="res://.godot/imported/WOODS - First.png-0b2a90ceec5a4701d1ff160657187e0e.ctex"
+uid="uid://bmmh6me0ui67t"
+path="res://.godot/imported/Backgrounds (all in one).png-7ccec05d39a64d6099038dc3f1f59986.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Pixel Art Tiles and Backgrounds - Woods/Backgrounds/WOODS - First.png"
-dest_files=["res://.godot/imported/WOODS - First.png-0b2a90ceec5a4701d1ff160657187e0e.ctex"]
+source_file="res://assets/images/Pixel Art Tiles and Backgrounds - Woods/Backgrounds/Backgrounds (all in one).png"
+dest_files=["res://.godot/imported/Backgrounds (all in one).png-7ccec05d39a64d6099038dc3f1f59986.ctex"]
 
 [params]
 

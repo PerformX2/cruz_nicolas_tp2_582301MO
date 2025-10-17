@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dq4cg3wcd72x1"
-path="res://.godot/imported/VINES - Second.png-8a51bb72f3615895a2529e6b736f3359.ctex"
+uid="uid://dyav3tbl4h5uc"
+path="res://.godot/imported/WOODS - Fourth.png-077c15b34e4452ee1100248ee4c9559f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Pixel Art Tiles and Backgrounds - Woods/Backgrounds/VINES - Second.png"
-dest_files=["res://.godot/imported/VINES - Second.png-8a51bb72f3615895a2529e6b736f3359.ctex"]
+source_file="res://assets/images/Pixel Art Tiles and Backgrounds - Woods/Backgrounds/layers/WOODS - Fourth.png"
+dest_files=["res://.godot/imported/WOODS - Fourth.png-077c15b34e4452ee1100248ee4c9559f.ctex"]
 
 [params]
 

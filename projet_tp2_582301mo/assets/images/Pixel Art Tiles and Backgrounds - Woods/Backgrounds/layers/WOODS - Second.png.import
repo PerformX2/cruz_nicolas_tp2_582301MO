@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bwp0rr42f4iti"
-path="res://.godot/imported/BUSH - BACKGROUND.png-15933a94fd61fc35c258fa1b0b09a23a.ctex"
+uid="uid://dmwuh6yas2t7v"
+path="res://.godot/imported/WOODS - Second.png-755ff9433a7b64d34e7a5c47b4450626.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Pixel Art Tiles and Backgrounds - Woods/Backgrounds/BUSH - BACKGROUND.png"
-dest_files=["res://.godot/imported/BUSH - BACKGROUND.png-15933a94fd61fc35c258fa1b0b09a23a.ctex"]
+source_file="res://assets/images/Pixel Art Tiles and Backgrounds - Woods/Backgrounds/layers/WOODS - Second.png"
+dest_files=["res://.godot/imported/WOODS - Second.png-755ff9433a7b64d34e7a5c47b4450626.ctex"]
 
 [params]
 

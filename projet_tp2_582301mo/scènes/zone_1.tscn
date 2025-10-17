@@ -1,4 +1,4 @@
-[gd_scene load_steps=10 format=4 uid="uid://cpowsjihpl6h7"]
+[gd_scene load_steps=11 format=4 uid="uid://cpowsjihpl6h7"]
 
 [ext_resource type="Texture2D" uid="uid://cacqfcwl63icl" path="res://assets/images/Pixel Art Tiles and Backgrounds - Woods/Tiles/Tilesheet - WOODS.png" id="1_1gua8"]
 [ext_resource type="PackedScene" uid="uid://0in4fdamtkga" path="res://scènes/player.tscn" id="2_ancdk"]
@@ -7,6 +7,7 @@
 [ext_resource type="Texture2D" uid="uid://bmmh6me0ui67t" path="res://assets/images/Pixel Art Tiles and Backgrounds - Woods/Backgrounds/Backgrounds (all in one).png" id="3_hc3m2"]
 [ext_resource type="Texture2D" uid="uid://vempkmj5c6rw" path="res://assets/images/Pixel Art Tiles and Backgrounds - Woods/Decorations/GRASS 3-2.png" id="4_3qm2i"]
 [ext_resource type="Texture2D" uid="uid://dnnw15atrmxkm" path="res://assets/images/Pixel Art Tiles and Backgrounds - Woods/Decorations/MUSHROOM 2-1.png" id="6_sgi1b"]
+[ext_resource type="AudioStream" uid="uid://dix1ls5niqi7x" path="res://assets/audio/bg_music.wav" id="8_awubr"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ancdk"]
 texture = ExtResource("1_1gua8")
@@ -1196,3 +1197,10 @@ z_index = -4096
 position = Vector2(2.4381, -22.083)
 scale = Vector2(1.00952, 0.900959)
 texture = ExtResource("3_hc3m2")
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("8_awubr")
+volume_db = -30.0
+autoplay = true

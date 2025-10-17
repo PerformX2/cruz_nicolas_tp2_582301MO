@@ -1,25 +1,29 @@
-[gd_scene load_steps=3 format=3 uid="uid://b8y88eftsoghu"]
+[gd_scene load_steps=4 format=3 uid="uid://b8y88eftsoghu"]
 
+[ext_resource type="Script" uid="uid://dmnaftmd43mw8" path="res://scripts/main_menu.gd" id="1_p6ils"]
 [ext_resource type="Texture2D" uid="uid://dyk2lurxeruum" path="res://assets/images/dark_forest.jpg" id="2_2kle8"]
 [ext_resource type="FontFile" uid="uid://b8pn1k641e8pk" path="res://assets/fonts/LuckiestGuy-Regular.ttf" id="3_dcjl3"]
 
 [node name="Main_Menu" type="Control"]
 layout_mode = 3
-anchors_preset = 15
-anchor_right = 1.0
+anchor_top = 0.356
+anchor_right = 0.643
 anchor_bottom = 1.0
+offset_top = 0.311996
+offset_right = 0.263977
 grow_horizontal = 2
 grow_vertical = 2
+script = ExtResource("1_p6ils")
 
 [node name="TextureRect" type="TextureRect" parent="."]
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_left = -384.0
-offset_top = -216.0
-offset_right = 384.0
-offset_bottom = 216.0
+offset_left = -589.0
+offset_top = -331.0
+offset_right = 590.0
+offset_bottom = 332.0
 grow_horizontal = 2
 grow_vertical = 2
 texture = ExtResource("2_2kle8")
@@ -63,7 +67,7 @@ layout_mode = 2
 theme_override_constants/separation = 32
 alignment = 1
 
-[node name="Button" type="Button" parent="MarginContainer/HBoxContainer/VBoxContainer"]
+[node name="Start_Button" type="Button" parent="MarginContainer/HBoxContainer/VBoxContainer"]
 custom_minimum_size = Vector2(120, 32)
 layout_mode = 2
 theme_override_fonts/font = ExtResource("3_dcjl3")
@@ -74,7 +78,7 @@ text = "Start
 [node name="Seperator2" type="Control" parent="MarginContainer/HBoxContainer/VBoxContainer"]
 layout_mode = 2
 
-[node name="Button2" type="Button" parent="MarginContainer/HBoxContainer/VBoxContainer"]
+[node name="Exit_Button" type="Button" parent="MarginContainer/HBoxContainer/VBoxContainer"]
 custom_minimum_size = Vector2(120, 32)
 layout_mode = 2
 theme_override_fonts/font = ExtResource("3_dcjl3")

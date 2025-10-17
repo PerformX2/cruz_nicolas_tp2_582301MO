@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bwp0rr42f4iti"
-path="res://.godot/imported/BUSH - BACKGROUND.png-dabf3aac13ac217fbb768800e65877fd.ctex"
+uid="uid://bcv03ge2t8enl"
+path="res://.godot/imported/pickedup_honey_bucket.png-8a3aed45a84fd5e85527f2fb7e29ce12.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Pixel Art Tiles and Backgrounds - Woods/Backgrounds/layers/BUSH - BACKGROUND.png"
-dest_files=["res://.godot/imported/BUSH - BACKGROUND.png-dabf3aac13ac217fbb768800e65877fd.ctex"]
+source_file="res://assets/images/honey_bucket/pickedup_honey_bucket.png"
+dest_files=["res://.godot/imported/pickedup_honey_bucket.png-8a3aed45a84fd5e85527f2fb7e29ce12.ctex"]
 
 [params]
 

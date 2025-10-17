@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dyav3tbl4h5uc"
-path="res://.godot/imported/WOODS - Fourth.png-077c15b34e4452ee1100248ee4c9559f.ctex"
+uid="uid://bd8tusg2hh4jm"
+path="res://.godot/imported/normal_honey_bucket.png-403e048547cfb3c7fc8ff6c3503c49d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Pixel Art Tiles and Backgrounds - Woods/Backgrounds/layers/WOODS - Fourth.png"
-dest_files=["res://.godot/imported/WOODS - Fourth.png-077c15b34e4452ee1100248ee4c9559f.ctex"]
+source_file="res://assets/images/honey_bucket/normal_honey_bucket.png"
+dest_files=["res://.godot/imported/normal_honey_bucket.png-403e048547cfb3c7fc8ff6c3503c49d1.ctex"]
 
 [params]
 

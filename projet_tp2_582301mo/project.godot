@@ -33,8 +33,14 @@ move_right={
 ]
 }
 
+[layer_names]
+
+2d_physics/layer_1="player"
+2d_physics/layer_9="ground"
+
 [rendering]
 
 textures/canvas_textures/default_texture_filter=3
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.0392157, 0.0352941, 0.0431373, 1)

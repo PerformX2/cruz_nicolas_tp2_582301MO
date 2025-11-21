@@ -9,12 +9,12 @@ Pigor: (https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-
 
 Honey bucket: (https://www.freepik.com/premium-vector/honey-bucket-pixel-art-styl_20213459.htm)
 
-Menu background: (https://wallpaperaccess.com/pixel-forest)
+Background for menus: (https://wallpaperaccess.com/full/3496333.jpg)
 
 Jump sfx: (https://pixabay.com/sound-effects/cartoon-jump-6462/)
 
 Background music: (https://pixabay.com/music/video-games-8-bit-219384/)
 
-Celebration sfx: (https://pixabay.com/sound-effects/stinger-effects-375631/)
+Honeybucket sfx: (https://pixabay.com/sound-effects/stinger-effects-375631/)
 
 Font(Luckiest Guy): (https://fonts.google.com/specimen/Luckiest+Guy)
